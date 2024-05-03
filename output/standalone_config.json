@@ -3,7 +3,7 @@
     "enable_separate_user_config": true,
     "start_fullscreen": false,
     "show_splash_screen": true,
-    "splash_screen_timeout_ms": 1000,
+    "splash_screen_timeout_ms": 2000,
     "use_hq2x": false,
     "disable_spritelimit": false,
     "stretch_to_screen": false,
