@@ -1,9 +1,112 @@
 {
-    "game_name": "My Game Name",
+    "game_name": "Anna The Magic of Words",
     "enable_separate_user_config": true,
+    "start_fullscreen": false,
     "show_splash_screen": true,
     "splash_screen_timeout_ms": 1000,
     "use_hq2x": false,
     "disable_spritelimit": false,
-    "stretch_to_screen": false
+    "stretch_to_screen": false,
+    "button_mappings": [
+        {
+            "a": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 52,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            },
+            "b": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 51,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            },
+            "select": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 37,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            },
+            "start": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 38,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            },
+            "up": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 17,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            },
+            "down": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 31,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            },
+            "left": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 30,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            },
+            "right": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 32,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            }
+        },
+        {
+            "a": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 52,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            },
+            "b": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 51,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            },
+            "select": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 37,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            },
+            "start": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 38,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            },
+            "up": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 17,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            },
+            "down": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 31,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            },
+            "left": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 30,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            },
+            "right": {
+                "keyboard_device": 0,
+                "keyboard_keycode": 32,
+                "gamepad_device": 4294967295,
+                "gamepad_button": 4294967295
+            }
+        }
+    ]
 }

@@ -1707,7 +1707,7 @@ int CreateMainWindow()
 
 	AdjustWindowRectEx(&tmp, WS_OVERLAPPEDWINDOW, 1, 0);
 
-	//fceumenu = LoadMenu(fceu_hInstance,"FCEUMENU");
+	fceumenu = LoadMenu(fceu_hInstance,"FCEUMENU");  /* re-enable the original fceumenu to fix the window-resize-bug */
 	//UpdateMenuHotkeys(FCEUMENU_MAIN);
 	recentmenu = CreateMenu();
 	recentluamenu = CreateMenu();
