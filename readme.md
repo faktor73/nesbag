@@ -1,6 +1,6 @@
-# NESbag
+# NESbag 1 is EOL (end of life)
 
-https://www.eastpixel.de/nesbag
+Please visit the website https://www.eastpixel.de/nesbag, a new version of NESbag is available.
 
 ## WHAT'S THE SOURCE
 It's a fork based on the original work of [Lowtek Games](http://lowtek.co.uk), named NESTEK.
